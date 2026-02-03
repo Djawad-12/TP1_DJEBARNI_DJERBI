@@ -54,6 +54,10 @@ L'IoC se trouve dans le fichier de configuration (`applicationContext.xml`). On 
 
 Il suffit de changer la balise `<constructor-arg ref="emailSender"/>` en mettant `smsSender` dans le fichier XML. On n'a pas besoin de toucher au code Java.
 
+**Comparaison :**
+
+Un constructeur est immutable. Les dépendances sont obligatoires, contrairement à un setter. Par ailleurs il est beaucoup plus long s'il y a beaucoup de dépendances.
+
 ## Partie 4 : Comparaison XML vs Annotations
 
 | Critère | XML                                                       | Annotations                                     |
