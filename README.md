@@ -21,6 +21,10 @@
         └── java
 
 ```
+
+<img width="585" height="237" alt="Screenshot from 2026-02-03 16-18-17" src="https://github.com/user-attachments/assets/ece8ca13-e4cf-446c-9aac-48a22b3619b3" />
+
+
 ## Partie 1 : 
 
 **1. Où est le couplage fort ?**
