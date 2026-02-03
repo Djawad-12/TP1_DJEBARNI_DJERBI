@@ -1,6 +1,26 @@
 # Réponses aux questions - TP1 : Inversion de Contrôle
+```text
+.
+├── pom.xml
+├── questions.md
+└── src
+    ├── main
+    │   ├── java
+    │   │   ├── com
+    │   │   │   └── tp
+    │   │   │       ├── EmailSender.java
+    │   │   │       ├── MainApp.java
+    │   │   │       ├── MessageSender.java
+    │   │   │       ├── NotificationService.java
+    │   │   │       └── SmsSender.java
+    │   │   └── org
+    │   │       └── example
+    │   └── resources
+    │       └── applicationContext.xml
+    └── test
+        └── java
 
-
+```
 ## Partie 1 : 
 
 **1. Où est le couplage fort ?**
